@@ -1,0 +1,1 @@
+ /home/alex021/Downloads/lifetours_project/lifetours/.dart_tool/flutter_build/2fe3e9dea0c1e9e35b4e03f6f4eec14b/dart_build_result.json:  /home/alex021/Downloads/lifetours_project/lifetours/.dart_tool/package_config.json /home/alex021/Downloads/lifetours_project/lifetours/pubspec.yaml /home/alex021/flutter/bin/cache/dart-sdk/version

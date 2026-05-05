@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "887612125656",
+    "project_id": "bdtourscrud",
+    "storage_bucket": "bdtourscrud.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:887612125656:android:552bc527d60ab4e20682ad",
+        "android_client_info": {
+          "package_name": "com.example.lifetours"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARapFhchzT9bcERXzrAPffVAqTBDfY5e0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:887612125656:android:8e3e0bdd76b89c580682ad",
+        "android_client_info": {
+          "package_name": "com.example.lifetours_base"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARapFhchzT9bcERXzrAPffVAqTBDfY5e0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

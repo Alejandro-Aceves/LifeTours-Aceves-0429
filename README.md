@@ -139,3 +139,16 @@ flutter run -d android
 | Soporte Android | ✅ |
 | Soporte Web | ✅ |
 | Soporte Windows | ✅ |
+
+
+
+# Capturas
+
+<img width="563" height="1218" alt="IMG_7919" src="https://github.com/user-attachments/assets/90806cc1-400f-4ed5-9784-a6b510ff7e00" />
+<img width="563" height="1218" alt="IMG_7917" src="https://github.com/user-attachments/assets/3048c298-c6ca-4e76-a827-4c0cf71cbc15" />
+<img width="563" height="1218" alt="IMG_7914" src="https://github.com/user-attachments/assets/3954b7cf-1382-4285-8fdc-2b448194e732" />
+<img width="563" height="1218" alt="IMG_7915" src="https://github.com/user-attachments/assets/8338ec64-273e-4ff9-9224-d9d7d6448bc2" />
+<img width="563" height="1218" alt="IMG_7918" src="https://github.com/user-attachments/assets/09266055-9f7e-43e7-b575-4441cec6826e" />
+<img width="563" height="1218" alt="IMG_7920" src="https://github.com/user-attachments/assets/693815be-3bfa-4f43-82b8-013aa5fec9d9" />
+<img width="563" height="1218" alt="IMG_7916" src="https://github.com/user-attachments/assets/c1954983-e4b3-4920-9299-f2e2ebf857c7" />
+
